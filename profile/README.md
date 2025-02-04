@@ -2,3 +2,4 @@ Helsingin yliopiston kursseille luotu organisaatio, ettei oma GitHub täyty ylio
 
 * Oikea profiili: [DeeCaaD](https://github.com/DeeCaaD)
 * Ohjelmistotuotantoprojekti: [TrainingHub](https://github.com/ohtutraininghub/traininghub)
+* Ohjelmistoarkkitehtuuriprojekti: [Search Engine](https://github.com/ronituohino/swap)
